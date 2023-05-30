@@ -1,5 +1,4 @@
-:raised_back_of_hand: 
-# Hi there, I'm Aiden!
+# 👋 Hi there, I'm Aiden!
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
