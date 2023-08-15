@@ -2,7 +2,7 @@
 
 # 💬 About Me
 * I am a freshman at the University of Maryland studying Computer Science and Mathematics
-* In my free time, I love working on web apps!
+* In my free time, I love to learn new things!
 * I am interested in machine learning and full-stack development
 * Learn more about me [here!](https://cs2student.github.io/)
 
