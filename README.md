@@ -6,7 +6,7 @@
 * I am interested in machine learning, full-stack development, and want to get into drawing too!
 * Learn more about me [here!](https://cs2student.github.io/)
 
-# :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Technologies :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
