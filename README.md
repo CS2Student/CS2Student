@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aiden!
 
 # 💬 About Me
-* I am a freshman at the University of Maryland studying Computer Science, Mathematics, and Theatre
+* I am a student at the University of Maryland studying Computer Science and Mathematics
 * In my free time, I love to learn new things!
 * I am interested in machine learning ethics, quantum cryptography, cybersecurity, and drawing!
 * See some of my projects [here!](https://cs2student.github.io/)
