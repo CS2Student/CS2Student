@@ -3,7 +3,7 @@
 # 💬 About Me
 * I am a student at the University of Maryland studying Computer Science and Mathematics
 * In my free time, I love to learn new things!
-* I am interested in machine learning ethics, quantum cryptography, cybersecurity, and drawing!
+* I am interested in machine learning ethics, quantum cryptography, and cybersecurity!
 * See some of my projects [here!](https://cs2student.github.io/)
 
 # :hammer_and_wrench: Technologies :
