@@ -1,6 +1,6 @@
 # Hello!
 
-* I'm Aiden, a student at the University of Maryland studying Computer Science and Mathematics.
+* I'm Aiden, a student at the University of Maryland studying Computer Science and Mathematics interested in machine learning ethics.
 
 # Projects
 * See some of my projects [here!](https://cs2student.github.io/)
